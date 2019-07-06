@@ -1,10 +1,10 @@
 # Inch-Conversion App
 A small conversion application used to convert decimal inches into fractional inches. Can also be used to convert mm to inches. 
 
-##Getting Started
+## Getting Started
 Enter inches or mm to be converted to be converted.
 
 
-##Required 
+## Required 
 tkinter
 guizero
